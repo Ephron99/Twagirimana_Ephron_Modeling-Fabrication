@@ -4,7 +4,7 @@ glightbox: false
 
 # Assignments
 
-_Welcome, My name is [Ephron Twagirimana](https://class.textile-academy.org/2020/loes.bogers/) from UR-ACEIoT_
+_Welcome, My name is [Benjamin Mugabo](https://class.textile-academy.org/2020/loes.bogers/) from UR-ACEIoT_
 
 
 ||||

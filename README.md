@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UR-ACEIoT student documentation
 
 Visit [UR-ACEIoT Modeling & Fabrication](https://fablabrwanda.github.io/UR-ACEIoT/index.html) for class and other information
@@ -39,3 +40,6 @@ To work locally on your computer with this project, you can start with the follo
 1. To add new pages, create the markdown file in the `docs/` folder (i.e. `docs/new-page.md`)
 1. Finally use GIT to push your changes to GitLab (or add manually through the "Github Web IDE", check your repo page).
 
+=======
+# Modeling-Fabrication
+>>>>>>> 3c1a430a4d72a0d778e2989139869c885c1b36d5
